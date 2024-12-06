@@ -9,8 +9,7 @@ export const HERO_CONTENT = `I am a passionate full-stack developer intern with 
 My focus is on delivering clean, maintainable code and creating solutions that provide seamless user experiences. I aim to continuously learn and contribute to innovative projects that drive business growth and solve real-world challenges.
 `;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full-stack developer intern with a passion for creating efficient and user-friendly web applications. With 1 year of hands-on experience during my internship, I have worked with technologies such as React.js, Node.js, and MongoDB, focusing on building scalable and robust solutions.
-My journey in web development began with a deep curiosity for how applications work, and it has grown into a commitment to continuous learning and adapting to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy exploring new technologies and enhancing my skills through personal projects.`;
+export const ABOUT_TEXT = `I am a dedicated and versatile MERN stack developer with 1 year of hands-on experience in building scalable and user-friendly web applications. Proficient in React.js, Node.js, MongoDB, Redux, and Tailwind CSS, I focus on creating efficient solutions with modern, responsive designs. My journey began with a curiosity for how applications work, evolving into a passion for continuous learning and problem-solving. I thrive in collaborative environments, tackling challenges to deliver high-quality results. Beyond coding, I enjoy exploring new technologies and working on innovative personal projects.`;
 
 export const EXPERIENCES = [
   {
@@ -97,5 +96,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "Indore, Madhya Pradesh ",
   phoneNo: " +916269336753 ",
-  email : "laxmi.parmar260@gmail.com"
+  email : "parmarlaxmi260@gmail.com"
 };
